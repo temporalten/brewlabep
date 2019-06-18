@@ -2776,9 +2776,9 @@ input, select, textarea {
 			width: 2.35em;
 		}
 
-			#header .logo.fa-paper-plane-o:before {
+			/*#header .logo.fa-paper-plane-o:before {
 				left: -0.075em;
-				position: relative;
+				position: relative;*/
 			}
 
 		#header h1 {
